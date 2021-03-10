@@ -1,1 +1,1 @@
-# stamidtermproject1
+# STA 104 Project 1 
